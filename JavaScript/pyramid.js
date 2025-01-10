@@ -7,7 +7,7 @@
     The number of rows and the character used can be changed by modifying the "count" and "character" variables.
     The pyramid can be inverted by changing the "inverted" variable to false.
 
-    It was created using FreeCodeCamp's "JavaScript Algorithms and Data Structures" course.
+    It was created using FreeCodeCamp's "Learn Introductory JavaScript by Building a Pyramid Generator" course.
 */
 
 const character = "#";
