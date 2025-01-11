@@ -3,11 +3,7 @@
     Created by : Onur DÖKER
     Updated by : Onur DÖKER
 
-    Description : This is a simple program that creates a pyramid shape using the "#" character.
-    The number of rows and the character used can be changed by modifying the "count" and "character" variables.
-    The pyramid can be inverted by changing the "inverted" variable to false.
-
-    It was created using FreeCodeCamp's "Learn Introductory JavaScript by Building a Pyramid Generator" course.
+    Description : This is a simple program that creates a pyramid shape using the "#" character. The number of rows and the character used can be changed by modifying the "count" and "character" variables. The pyramid can be inverted by changing the "inverted" variable to false. It was created using FreeCodeCamp's "Learn Introductory JavaScript by Building a Pyramid Generator" course.
 */
 
 const character = "#";
