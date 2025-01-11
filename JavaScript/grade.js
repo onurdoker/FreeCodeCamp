@@ -3,7 +3,7 @@
     Created by : Onur DÖKER
     Updated by : Onur DÖKER
 
-    Description : Calculate the average of the numbers in
+    Description :   Description : Calculate the average of the scores, determine the grade of the student, check if the student has a passing grade, and return a message to the student based on their score.
 
     It was created using FreeCodeCamp's "JavaScript Fundamentals by Building a Gradebook App" course.
 */
